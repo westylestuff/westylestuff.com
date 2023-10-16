@@ -1,0 +1,4 @@
+baseURL = 'https://westyleyourweb.com/'
+languageCode = 'en-us'
+title = 'We Style Your Web'
+theme = 'ananke'
